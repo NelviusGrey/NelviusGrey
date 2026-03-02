@@ -1,15 +1,21 @@
-👋 Hey there, I'm NelviusGrey!
+Hi, I'm Nelson 👋🏾
 
-🎥 3D Animation Enthusiast | 🎨 Cartoon Creator | 📱 Mobile Game Developer | 💻 Software Wizard | 🌐 Web Designer
+Data & Systems Engineer | Tech-Driven Operator
 
-🚀 I'm passionate about bringing imaginative worlds to life through 3D animation and creating fun, interactive experiences in the form of mobile games. My creative journey doesn't stop there; I'm also skilled in crafting captivating cartoons that entertain and inspire.
+I build systems that think, scale, and execute.
 
-💼 Professionally, I dabble in the art of software development for mobile platforms and web design. From mobile apps to sleek websites, I thrive on turning ideas into user-friendly digital realities.
+🧠 Data & Analytics — Python, SQL, Pandas, Power BI  
+⚙️ Backend & APIs — Python, REST APIs, Automation  
+📊 Operational Systems — KPIs, Process Design, Program Execution  
+🌍 Climate | Agi | InsurTech | Impact tech  
 
-🛡️ On the tech side, I possess a unique knowledge of shell scripting and batch programming, allowing me to delve into the world of cybersecurity. I've explored the creation of both exotic malware and robust antivirus solutions, contributing to the ongoing battle for digital security.
+Tech Stack:
+Python • SQL • JavaScript • Git • APIs • Automation • Data Visualization  
 
-🌟 Join me on this exciting journey of creativity, innovation, and code. Let's build amazing things together! ✨
+Founder/Chief Innovation Technologist (CIT) @ NelviusGrey Tech  
+Building structured, scalable technology for real-world impact.
 
-📫 Reach out to me:
-- 📧 Email: igherenelson@gmail.com
-- 🐦 Twitter: @dont_send_aza
+I don’t just write code. I design clarity.
+
+📧 Email: igherenelson@gmail.com
+
